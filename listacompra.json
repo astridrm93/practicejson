@@ -1,0 +1,59 @@
+{
+    "listacompra": {
+      "supermercados": [
+        {
+          "nombre": "Mercadona",
+          "direccion": "Calle Freddie Mercury, 34",
+          "geolocalizacion": {
+            "latitud": 12.34567,
+            "longitud": -51.69874
+          },
+          "productos": [
+            {
+              "nombre": "Lentejas",
+              "oferta": true,
+              "vigencia": "25/05/2023 al 26/09/2024",
+              "unidad_medida": "gramos",
+              "precio": 0.68,
+              "adquirido": false
+            },
+            {
+              "nombre": "Helado de fresa",
+              "oferta": false,
+              "vigencia": "25/05/2023 al 27/07/2023",
+              "unidad_medida": "gramos",
+              "precio": 3.45,
+              "adquirido": true
+            }
+          ]
+        },
+        {
+          "nombre": "Lidl",
+          "direccion": "Calle Ringo Starr, 3",
+          "geolocalizacion": {
+            "latitud": 34.56789,
+            "longitud": -12.34589
+          },
+          "productos": [
+            {
+              "nombre": "Cereales",
+              "oferta": false,
+              "vigencia": "07/04/2023 al 04/04/2024",
+              "unidad_medida": "gramos",
+              "precio": 2.10,
+              "adquirido": true
+            },
+            {
+              "nombre": "Coca Cola",
+              "oferta": false,
+              "vigencia": "25-05-2023 al 27-07/2023",
+              "unidad_medida": "litros",
+              "precio": 1.12,
+              "adquirido": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

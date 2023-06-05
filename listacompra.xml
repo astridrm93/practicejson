@@ -1,0 +1,57 @@
+
+  <listadelacompra>
+  <supermercados>
+    <supermercado>
+      <nombre> Mercadona </nombre>
+      <direccion> Calle Freddie Mercury, 34 </direccion>
+      <geolocalizacion>
+        <latitud> 12.34567 </latitud>
+        <longitud> -51.69874 </longitud>
+      </geolocalizacion>
+      <productos>
+        <producto>
+          <nombre> Lentejas </nombre>
+          <oferta> true </oferta>
+          <vigencia> 25/05/2023 al 26/09/2024 </vigencia>
+          <unidad_medida> gramos </unidad_medida>
+          <precio> 0.68 </precio>
+          <adquirido> false </adquirido>
+        </producto>
+        <producto>
+          <nombre> Helado de fresa </nombre>
+          <oferta> false </oferta>
+          <vigencia> 25/05/2023 al 27/07/2023 </vigencia>
+          <unidad_medida> gramos </unidad_medida>
+          <precio> 3.45 </precio>
+          <adquirido> true </adquirido>
+        </producto>
+      </productos>
+    </supermercado>
+    <supermercado>
+      <nombre> Lidl </nombre>
+      <direccion> Calle Ringo Starr, 3 </direccion>
+      <geolocalizacion>
+        <latitud> 34.56789 </latitud>
+        <longitud> -12.34589 </longitud>
+      </geolocalizacion>
+      <productos>
+        <producto>
+          <nombre> Cereales </nombre>
+          <oferta> false </oferta>
+          <vigencia> 07/04/2023 al 04/04/2024 </vigencia>
+          <unidad_medida> gramos </unidad_medida>
+          <precio> 2.10 </precio>
+          <adquirido> true </adquirido>
+        </producto>
+        <producto>
+          <nombre> Coca Cola </nombre>
+          <oferta> false </oferta>
+          <vigencia> 25-05-2023 al 27-07/2023 </vigencia>
+          <unidad_medida> litros </unidad_medida>
+          <precio> 1.12 </precio>
+          <adquirido> false </adquirido>
+        </producto>
+      </productos>
+    </supermercado>
+  </supermercados>
+</listadelacompra>
